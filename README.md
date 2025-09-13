@@ -1,5 +1,4 @@
 👋 About Me  
-- 🌩️ AWS & Azure Cloud Practitioner  
-- 💻 Passionate about Cloud Computing, DevOps, and Security  
-- 🎯 Currently seeking an internship to apply and grow my skills  
-- ✨ Fun fact: I enjoy learning from cloud professionals and sharing resources
+AWS & Azure Cloud Practitioner passionate about cloud computing and continuously building hands-on expertise. 
+I’m currently seeking an internship opportunity to apply my knowledge, grow through real-world projects, and contribute to impactful solutions. 
+I enjoy sharing cloud resources, exchanging ideas, and staying inspired by learning from experienced professionals in the field.
